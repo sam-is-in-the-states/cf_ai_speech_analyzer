@@ -83,3 +83,6 @@ The backend will start on **http://127.0.0.1:8000**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``npm start``
 
 The app will open on **http://localhost:3000**
+
+
+Note: This repository is a direct copy of my own repository for cloudflare application. Created a new repository as it had to abide by the repo naming rules
